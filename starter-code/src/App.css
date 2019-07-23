@@ -41,26 +41,26 @@
   transition: all 1.5s;
 }
 
-.main-body button:hover{
+.main-body button:hover {
   background-color: #1f2535;
-  color:white; 
-} 
+  color: white;
+}
 
-.footer{
+.footer {
   display: flex;
   align-items: center;
   justify-content: space-around;
   padding: 100px 0;
-} 
+}
 
-.footer-elem{
+.footer-elem {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
   align-items: left;
-} 
+}
 
-.footer-elem p{
+.footer-elem p {
   width: 180px;
-  font-size:18px;
-} 
+  font-size: 18px;
+}
